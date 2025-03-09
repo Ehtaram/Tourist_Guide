@@ -1,1 +1,3 @@
 # Tourist_Guide
+
+Internet is attracting all types of people day-by-day. The users are increased to 20 million in India alone. Basically, this project has aim to make much more tourist attraction, and according to our perspective this is only possible if we will let them people about our culture, heritage and beauty of nature. In this project we’ll be working on the same concept. We’ll create a website, where we’ll put all the information regarding tourist places across the India with complete description. So, that a tourist can understand the places before visiting to any places in India. In this way, tourist can understand places effectively and priorities their schedule accordingly.
